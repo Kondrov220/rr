@@ -1,0 +1,256 @@
+body {
+    background-color: rgb(45, 45, 45);
+}
+
+header {
+    background-color: rgba(79, 79, 79, 0.538);
+}
+
+.links {
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+
+}
+
+.vidhuk {
+    list-style:none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.dad {
+    background-color: rgba(79, 79, 79, 0.538) ;
+    border: #ffce2d 2px dashed;
+    width: 300px;
+    height: 400px;
+}
+
+.text5 {
+    color: #ffce2d;
+}
+
+.text6 {
+    font-size: 20px;
+}
+
+.color1{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
+
+.color2{
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+}
+
+.color3{
+    width: 20px;
+    height: 20px;
+    background-color: gold;
+}
+
+.colors {
+    display: flex;
+    gap: 20px;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.dd {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: #ffce2d 2px 2px;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 112px;
+}
+
+.name {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.overlay {
+    background-color:#ffce2d;
+    width: 205px;
+    height: 210px;
+    position: absolute;
+    top:0;
+    left: 0;
+    opacity: 0;
+  }
+
+  .game:hover .overlay {
+    opacity: 1;
+  }
+
+  .part2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+  }
+
+  .infos {
+    text-align: center;
+    background-color: rgba(79, 79, 79, 0.538);
+    border: #ffce2d solid 5px;
+    width: 200px;
+  }
+
+.game {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    background-color:#ffce2d;
+    position: relative;
+  }
+
+.work {
+    height: 100%;
+    width:  100%;
+    
+}
+
+
+
+.photo {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.text1 {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: #ffce2d;
+}
+
+.logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.photos {
+    height: 500px;
+    width: 500px;
+}
+
+.linkse {
+    font-size: 50px;
+    color: #ffce2d;
+    width: 200px;
+}
+
+.text2 {
+    margin-top: 50px;
+    background-color: rgba(79, 79, 79, 0.538);
+    height: 600px;
+    width: 500px;
+    display: flex;
+    align-items: end;
+
+}
+
+h5 {
+    font-size: 70px;
+    color: #ffce2d;
+    font-family: fantasy;
+}
+
+h3 {
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+h4 {
+    font-size: 50px;
+    color: #ffce2d;
+    font-family: fantasy;
+}
+
+.text2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.part3 {
+    margin-left:200px ;
+    height: 250px;
+    width: 400px;
+    display: flex;
+}
+
+.text4 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.gg {
+    color: #ffce2d;
+}
+
+.pro {
+    background-color: rgb(62, 62, 62);
+    display: flex;
+    align-items: center;
+    margin-top:50px ;
+    flex-direction: column;
+}
+
+.text3 {
+    margin-top:70px ;
+    font-size: x-large;
+    color: #ffce2d;
+}
+
+
+.part22 {
+    background-color: rgb(45, 45, 45);
+}
+
+.dad {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
